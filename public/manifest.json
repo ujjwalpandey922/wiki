@@ -20,5 +20,11 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+    "splash_screen": {
+    "show": true,
+    "full_screen": true,
+    "image_path": "/public/logos/logo.png",
+    "background_color": "#ffffff"
+  }
 }
